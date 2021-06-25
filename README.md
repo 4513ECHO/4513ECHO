@@ -1,8 +1,8 @@
 
 ## Gitub Stats
 
-![GitHub Stats Card]("https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true")
-![Top Languages Card]("https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO")
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO)
 
 
 ## GitHub Trophy
@@ -11,7 +11,7 @@
 
 ### 使える技術
 
-![vim](https://img.shields.io/badge/vim--019733.svg?style=falt-square&logo=vim)
+![vim](https://img.shields.io/badge/-vim-019733.svg?style=falt-square&logo=vim)
 
 <!--
 **4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
