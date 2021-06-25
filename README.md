@@ -2,7 +2,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO)
 
 宿題とたたかう学生です。Python使いだったり見習いvimmerだったりするよ。
-GitHubで芝を生やしながら、たまにQiitaに投稿~~してます~~したいです
+GitHubで芝を生やしながら、たまにQiitaに投稿~~してます~~したいです。
 
 ### Trophy
 
