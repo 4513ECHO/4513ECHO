@@ -1,18 +1,17 @@
-## Hi there 👋
 
-### Gitub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO" />
-</a>
+## Gitub Stats
 
-### GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats Card]("https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true")
+![Top Languages Card]("https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO")
 
 
-工事中です…
+## GitHub Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO)
+
+### 使える技術
+
+![vim](https://img.shields.io/badge/vim--019733.svg?style=falt-square&logo=vim)
 
 <!--
 **4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
