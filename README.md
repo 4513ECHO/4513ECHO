@@ -19,7 +19,7 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?style=popout-square&logo=markdown) <br>
 ![Qiita](https://img.shields.io/badge/-Qiita-8EC464.svg?style=popout-square&logo=qiita)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=popout-square&logo=github)
-![discord](https://img.shields.io/badge/-discord-#98A6D9.svg?style=popout-square&logo=discord) <br>
+![discord](https://img.shields.io/badge/-discord-98A6D9.svg?style=popout-square&logo=discord) <br>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624.svg?style=popout-square&logo=linux)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?style=popout-square&logo=raspberrypi)
 
