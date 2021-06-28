@@ -17,9 +17,9 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 ![Flask](https://img.shields.io/badge/-Flask-000000.svg?style=for-the-badge&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-F09432.svg?style=for-the-badge&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?style=for-the-badge&logo=markdown) <br>
-![Qiita](https://img.shields.io/badge/-Qiita-828C7A.svg?style=for-the-badge&logo=qiita)
+![Qiita](https://img.shields.io/badge/-Qiita-8C8C8C.svg?style=for-the-badge&logo=qiita)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github)
-![discord](https://img.shields.io/badge/-discord-4B526B.svg?style=for-the-badge&logo=discord) <br>
+![discord](https://img.shields.io/badge/-discord-6B6B6B.svg?style=for-the-badge&logo=discord) <br>
 ![Linux](https://img.shields.io/badge/-Linux-FC8923.svg?style=for-the-badge&logo=linux)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?style=for-the-badge&logo=raspberrypi)
 
