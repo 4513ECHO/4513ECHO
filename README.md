@@ -1,12 +1,12 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true)
 
 宿題とたたかう学生です。Python使いだったり見習いvimmerだったりするよ。
-GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~したいです。
+GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~したいです…最近はdiscord botにはまってます。
 
 ### Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO)
+![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-bg=true&no-frame=true)
 
 - - - 
 
