@@ -20,7 +20,7 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 ![Linux](https://img.shields.io/badge/-Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-F6C915.svg?style=for-the-badge&logo=python&logoColor=3775A9)
-![Qiita](https://img.shields.io/badge/-Qiita-#55C500.svg?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
+![Qiita](https://img.shields.io/badge/-Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)
 ![Shell](https://img.shields.io/badge/-Shell-FFD500.svg?style=for-the-badge&logo=shell&logoColor=FFFFFF)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
