@@ -12,14 +12,16 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 
 ### 使えるやつ
 
-![vim](https://img.shields.io/badge/-vim-019733.svg?style=for-the-badge&logo=vim) <br>
-![Python](https://img.shields.io/badge/-Python-F0E113.svg?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000000.svg?style=for-the-badge&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F09432.svg?style=for-the-badge&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?style=for-the-badge&logo=markdown) <br>
-![Qiita](https://img.shields.io/badge/-Qiita-606060.svg?style=for-the-badge&logo=qiita)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github)
-![discord](https://img.shields.io/badge/-discord-606060.svg?style=for-the-badge&logo=discord) <br>
-![Linux](https://img.shields.io/badge/-Linux-080808.svg?style=for-the-badge&logo=linux)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?style=for-the-badge&logo=raspberrypi)
-
+![discord](https://img.shields.io/badge/-discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/-Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-F6C915.svg?style=for-the-badge&logo=python&logoColor=3775A9)
+![Qiita](https://img.shields.io/badge/-Qiita-#55C500.svg?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)
+![Shell](https://img.shields.io/badge/-Shell-FFD500.svg?style=for-the-badge&logo=shell&logoColor=FFFFFF)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
+![vim](https://img.shields.io/badge/-vim-019733.svg?style=for-the-badge&logo=vim&logoColor=FFFFFF)
