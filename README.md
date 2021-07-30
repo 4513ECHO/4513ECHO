@@ -1,4 +1,4 @@
-# Hi, there 👋
+<!-- ### Hi, there 👋 -->
 
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -6,14 +6,11 @@
 宿題とたたかう学生です。Python使いだったり見習いvimmerだったりするよ。
 GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~したいです…最近はdiscord botにはまってます。
 
-### Trophy
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - - - 
 
-### 使えるやつ
-
+[![bash](https://img.shields.io/badge/-bash-4EAA25.svg?style=for-the-badge&logo=bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
 [![discord](https://img.shields.io/badge/-discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://diccord.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=FFFFFF)](https://palletsprojects.com/p/flask/)
 [![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
