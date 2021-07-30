@@ -8,6 +8,13 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/4513ECHO?label=Followers&logo=GitHub&style=social)](https://gihub.com/4513ECHO)
+[![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)
+[![Qiita posts](https://qiita-badge.apiapi.app/s/__echo__/posts.svg)](http://qiita.com/__echo__)
+[![Qiita contributions](https://qiita-badge.apiapi.app/s/__echo__/contributions.svg)](http://qiita.com/__echo__)
+[![Qiita followers](https://qiita-badge.apiapi.app/s/__echo__/followers.svg)](http://qiita.com/__echo__)
+-->
 - - - 
 
 [![bash](https://img.shields.io/badge/-bash-4EAA25.svg?style=for-the-badge&logo=GNU-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
@@ -25,7 +32,7 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 [![vim](https://img.shields.io/badge/-vim-019733.svg?style=for-the-badge&logo=vim&logoColor=FFFFFF)](https://www.vim.org/)
 
 <!--
-**4513ECHo/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
