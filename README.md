@@ -10,7 +10,7 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 
 - - - 
 
-[![bash](https://img.shields.io/badge/-bash-4EAA25.svg?style=for-the-badge&logo=bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
+[![bash](https://img.shields.io/badge/-bash-4EAA25.svg?style=for-the-badge&logo=GNU-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
 [![discord](https://img.shields.io/badge/-discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://diccord.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=FFFFFF)](https://palletsprojects.com/p/flask/)
 [![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
