@@ -6,7 +6,7 @@
 宿題とたたかう学生です。Python使いだったり見習いvimmerだったりするよ。
 GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~したいです…最近はdiscord botにはまってます。
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true)](https://git.io/streak-stats)
 <!--
