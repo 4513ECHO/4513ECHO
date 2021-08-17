@@ -9,13 +9,13 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 [![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true)](https://git.io/streak-stats)
-<!--
+
 [![GitHub followers](https://img.shields.io/github/followers/4513ECHO?label=Followers&logo=GitHub&style=social)](https://gihub.com/4513ECHO)
 [![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)
 [![Qiita posts](https://qiita-badge.apiapi.app/s/__echo__/posts.svg)](http://qiita.com/__echo__)
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/__echo__/contributions.svg)](http://qiita.com/__echo__)
 [![Qiita followers](https://qiita-badge.apiapi.app/s/__echo__/followers.svg)](http://qiita.com/__echo__)
--->
+
 - - - 
 
 [![bash](https://img.shields.io/badge/-bash-4EAA25.svg?style=for-the-badge&logo=GNU-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
