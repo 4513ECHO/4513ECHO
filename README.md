@@ -11,7 +11,7 @@ GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~し�
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/4513ECHO?label=Followers&logo=GitHub&style=social)](https://gihub.com/4513ECHO)
-[![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)
+<!--[![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)-->
 [![Qiita posts](https://qiita-badge.apiapi.app/s/__echo__/posts.svg)](http://qiita.com/__echo__)
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/__echo__/contributions.svg)](http://qiita.com/__echo__)
 [![Qiita followers](https://qiita-badge.apiapi.app/s/__echo__/followers.svg)](http://qiita.com/__echo__)
