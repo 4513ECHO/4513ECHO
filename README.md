@@ -3,8 +3,7 @@
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-宿題とたたかう学生です。Python使いだったり見習いvimmerだったりするよ。
-GitHubに芝を生やしながら、たまにQiitaに投稿~~してます~~したいです…最近はdiscord botにはまってます。
+一介の中学生
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
