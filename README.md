@@ -10,9 +10,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/4513ECHO?label=Followers&logo=GitHub&style=social)](https://gihub.com/4513ECHO)
 [![GitHub Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&logoColor=FFFFFF)](https://gist.github.com/4513ECHO)
 
-[![Qiita posts](https://qiita-badge.apiapi.app/s/__echo__/posts.svg)
-![Qiita contributions](https://qiita-badge.apiapi.app/s/__echo__/contributions.svg)
-![Qiita followers](https://qiita-badge.apiapi.app/s/__echo__/followers.svg)](http://qiita.com/__echo__)
+[![Qiita posts](https://qiita-badge.apiapi.app/s/4513echo/posts.svg)
+![Qiita contributions](https://qiita-badge.apiapi.app/s/4513echo/contributions.svg)
+![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)](http://qiita.com/4513echo)
+
 <!--[![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)-->
 
 - - - 
@@ -34,6 +35,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
 [![vim](https://img.shields.io/badge/-vim-019733.svg?style=for-the-badge&logo=vim&logoColor=FFFFFF)](https://www.vim.org/)
+
 <!--
 **4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
