@@ -10,18 +10,18 @@
 [![GitHub Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&logoColor=FFFFFF)](https://gist.github.com/4513ECHO)
 
 <!-- https://zenn.dev -->
-[![Zenn likes](https://zenn.badge.nikaera.com/s/4513echo/likes?style=flat)](https://zenn.dev/4513echo)
-[![Zenn articles](https://zenn.badge.nikaera.com/s/4513echo/articles?style=flat)](https://zenn.dev/4513echo/articles)
-[![Zenn followers](https://zenn.badge.nikaera.com/s/4513echo/followers?style=flat)](https://zenn.dev/4513echo/followers)
-<!--
-[![Zenn books](https://zenn.badge.nikaera.com/s/4513echo/books?style=flat)](https://zenn.dev/4513echo/books)
-[![Zenn scraps](https://zenn.badge.nikaera.com/s/4513echo/scraps?style=flat)](https://zenn.dev/4513echo/scraps)
--->
+[![Zenn likes](https://zenn.badge.nikaera.com/s/4513echo/likes?style=flat)
+ ![Zenn articles](https://zenn.badge.nikaera.com/s/4513echo/articles?style=flat)
+ ![Zenn followers](https://zenn.badge.nikaera.com/s/4513echo/followers?style=flat)
+ ![Zenn books](https://zenn.badge.nikaera.com/s/4513echo/books?style=flat)
+ ![Zenn scraps](https://zenn.badge.nikaera.com/s/4513echo/scraps?style=flat)
+](https://zenn.dev/4513echo/followers)
 
 <!-- https://qiita.com -->
 [![Qiita posts](https://qiita-badge.apiapi.app/s/4513echo/posts.svg)
-![Qiita contributions](https://qiita-badge.apiapi.app/s/4513echo/contributions.svg)
-![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)](http://qiita.com/4513echo)
+ ![Qiita contributions](https://qiita-badge.apiapi.app/s/4513echo/contributions.svg)
+ ![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)
+](http://qiita.com/4513echo)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true)](https://git.io/streak-stats)
 
