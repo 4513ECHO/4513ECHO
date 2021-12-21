@@ -15,7 +15,7 @@
  ![Zenn followers](https://zenn.badge.nikaera.com/s/4513echo/followers?style=flat)
  ![Zenn books](https://zenn.badge.nikaera.com/s/4513echo/books?style=flat)
  ![Zenn scraps](https://zenn.badge.nikaera.com/s/4513echo/scraps?style=flat)
-](https://zenn.dev/4513echo/followers)
+](https://zenn.dev/4513echo)
 
 <!-- https://qiita.com -->
 [![Qiita posts](https://qiita-badge.apiapi.app/s/4513echo/posts.svg)
