@@ -1,9 +1,9 @@
 <!-- ### Hi, there 👋 -->
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true&layout=compact&langs_count=15&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- https://github.com -->
 [![GitHub followers](https://img.shields.io/github/followers/4513ECHO?label=Followers&logo=GitHub&style=social)](https://gihub.com/4513ECHO)
@@ -23,7 +23,7 @@
  ![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)
 ](http://qiita.com/4513echo)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 [![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)
