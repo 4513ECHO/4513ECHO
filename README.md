@@ -1,15 +1,14 @@
 <!-- ### Hi, there 👋 -->
 
+## Stats
+
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=4513ECHO&show_icons=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true&layout=compact&langs_count=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=4513ECHO&count_private=true&layout=compact&langs_count=12&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4513ECHO&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- https://github.com -->
-[![GitHub followers](https://img.shields.io/github/followers/4513ECHO?label=Followers&logo=GitHub&style=social)](https://gihub.com/4513ECHO)
-[![GitHub Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&logoColor=FFFFFF)](https://gist.github.com/4513ECHO)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<!-- https://zenn.dev -->
 [![Zenn likes](https://zenn.badge.nikaera.com/s/4513echo/likes?style=flat)
  ![Zenn articles](https://zenn.badge.nikaera.com/s/4513echo/articles?style=flat)
  ![Zenn followers](https://zenn.badge.nikaera.com/s/4513echo/followers?style=flat)
@@ -17,39 +16,47 @@
  ![Zenn scraps](https://zenn.badge.nikaera.com/s/4513echo/scraps?style=flat)
 ](https://zenn.dev/4513echo)
 
-<!-- https://qiita.com -->
 [![Qiita posts](https://qiita-badge.apiapi.app/s/4513echo/posts.svg)
  ![Qiita contributions](https://qiita-badge.apiapi.app/s/4513echo/contributions.svg)
  ![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)
 ](http://qiita.com/4513echo)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## Social
 
-<!--
-[![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)
--->
+- [<img height="16" width="16" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="GitHub" /> GitHub Gist](https://gist.github.com/4513ECHO)
+- [<img height="16" width="16" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiita.svg#gh-light-mode-only" alt="Qiita" /> Qiita](https://qiita.com/4513echo)
+- [<img height="16" width="16" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zenn.svg#gh-light-mode-only" alt="Zenn" /> Zenn](https://zenn.dev/4513echo)
+- [<img height="16" width="16" src="https://nota.github.io/press-kit/S-icon.svg" alt="Scrapbox" /> Scrapbox](https://scrapbox.io/4513echo)
 
 - - - 
 
-<!-- https://simpleicons.org -->
-[![bash](https://img.shields.io/badge/-bash-4EAA25.svg?style=for-the-badge&logo=GNU-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
-[![deno](https://img.shields.io/badge/-deno-000000.svg?style=for-the-badge&logo=deno&logoColor=FFFFFF)](https://deno.land/)
-[![discord](https://img.shields.io/badge/-discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://diccord.com/)
-[![docker](https://img.shields.io/badge/-docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)](https://fastapi.tiangolo.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://guthub.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=FFFFFF)](https://heroku.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://www.kernel.org/)
-[![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
-[![Python](https://img.shields.io/badge/-Python-F6C915.svg?style=for-the-badge&logo=python&logoColor=3775A9)](https://www.python.org/)
-[![Qiita](https://img.shields.io/badge/-Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=FFFFFF)](https://qiita.com/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)](https://www.raspberrypi.org/)
-[![tmux](https://img.shields.io/badge/-tmux-1BB91F.svg?style=for-the-badge&logo=tmux&logoColor=FFFFFF)](https://tmux.github.io/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
-[![vim](https://img.shields.io/badge/-vim-019733.svg?style=for-the-badge&logo=vim&logoColor=FFFFFF)](https://www.vim.org/)
-[![Zenn](https://img.shields.io/badge/-zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=FFFFFF)](https://zenn.dev/)
+icons from https://simpleicons.org/
+
+[
+ ![Alpine Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=Alpine+Linux&logoColor=FFFFFF&label=)
+ ![Deno](https://img.shields.io/static/v1?style=for-the-badge&message=Deno&color=000000&logo=Deno&logoColor=FFFFFF&label=)
+ ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
+ ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+ ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
+ ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+ ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+ ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
+ ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+ ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+ ![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
+ ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+ ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+ ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
+ ![niconico](https://img.shields.io/static/v1?style=for-the-badge&message=niconico&color=231815&logo=niconico&logoColor=FFFFFF&label=)
+ ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+ ![Qiita](https://img.shields.io/static/v1?style=for-the-badge&message=Qiita&color=222222&logo=Qiita&logoColor=55C500&label=)
+ ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+ ![tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
+ ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+ ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
+ ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
+ ![Zenn](https://img.shields.io/static/v1?style=for-the-badge&message=Zenn&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=)
+](https://github.com/progfay/shields-with-icon/)
 
 <!--
 **4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
