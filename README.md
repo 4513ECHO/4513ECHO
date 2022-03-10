@@ -23,10 +23,10 @@
 
 ## Social
 
-- [<img height="16" width="16" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="GitHub" /> GitHub Gist](https://gist.github.com/4513ECHO)
-- [<img height="16" width="16" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiita.svg#gh-light-mode-only" alt="Qiita" /> Qiita](https://qiita.com/4513echo)
-- [<img height="16" width="16" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zenn.svg#gh-light-mode-only" alt="Zenn" /> Zenn](https://zenn.dev/4513echo)
-- [<img height="16" width="16" src="https://nota.github.io/press-kit/S-icon.svg" alt="Scrapbox" /> Scrapbox](https://scrapbox.io/4513echo)
+- [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/GitHub/icon" /> GitHub Gist](https://gist.github.com/4513ECHO)
+- [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/qiita/icon" /> Qiita](https://qiita.com/4513echo)
+- [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons2/zenn/icon" /> Zenn](https://zenn.dev/4513echo)
+- [<img height="16" width="16" src="https://nota.github.io/press-kit/S-icon.svg" /> Scrapbox](https://scrapbox.io/4513echo)
 
 - - - 
 
