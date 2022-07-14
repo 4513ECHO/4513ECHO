@@ -30,7 +30,7 @@
  ![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)
 ](http://qiita.com/4513echo)
 
-# Projects
+## Projects
 
 |||
 |-|-|
@@ -44,9 +44,11 @@
 ## Socials
 
 - [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/GitHub/icon" /> GitHub Gist](https://gist.github.com/4513ECHO)
-- [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/qiita/icon" /> Qiita](https://qiita.com/4513echo)
+- [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/qiitan/icon" /> Qiita](https://qiita.com/4513echo)
 - [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons2/zenn/icon" /> Zenn](https://zenn.dev/4513echo)
 - [<img height="16" width="16" src="https://nota.github.io/press-kit/S-icon.svg" /> Scrapbox](https://scrapbox.io/4513echo)
+- [<img height="16" width="16" src="https://github.com/pypi.png" /> PyPI](https://pypi.org/user/4513ECHO/)
+
 
 <!--
 **4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
