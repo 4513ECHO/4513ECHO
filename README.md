@@ -12,7 +12,6 @@
 <summary> Other Statistics </summary>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4513ECHO&hide_border=true&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=4513ECHO)](https://github.com/LordDashMe/github-contribution-stats)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=4513ECHO/ddu-source-ghq,4513ECHO/dotfiles,4513ECHO/ddu-source-source,4513ECHO/vim-colors-hatsunemiku,4513ECHO/vim-readme-viewer,4513ECHO/zsh-sticky-shift,4513ECHO/ddc-github,4513ECHO/ddu-source-emoji&type=Date)](https://star-history.com/#4513ECHO/ddu-source-ghq&4513ECHO/dotfiles&4513ECHO/ddu-source-source&4513ECHO/vim-colors-hatsunemiku&4513ECHO/vim-readme-viewer&4513ECHO/zsh-sticky-shift&4513ECHO/ddc-github&4513ECHO/ddu-source-emoji&Date)
@@ -31,42 +30,23 @@
  ![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)
 ](http://qiita.com/4513echo)
 
-## Social
+# Projects
+
+|||
+|-|-|
+|[vim-colors-hatsunemiku](https://github.com/4513ECHO/vim-colors-hatsunemiku) - 💚 A vim colorscheme like "初音ミク" (Hatsune Miku). Miku makes vimmers happy!|[vim-readme-viewer](https://github.com/4513ECHO/vim-readme-viewer) - 📖 Viewing plugin's README easily like vim help|
+|[ddc-github](https://github.com/4513ECHO/ddc-github) - :octocat: GitHub completion for ddc.vim via gh|[vim-vimhelp-url](https://github.com/4513ECHO/vim-vimhelp-url) - 🔗 Create URL of vim help documentation|
+|[longpython](https://github.com/4513ECHO/longpython) - 🐍 CLI tool to print long python|[zsh-sticky-shift](https://github.com/4513ECHO/zsh-sticky-shift) - 🐚 Sticky shift for Zsh|
+|[dotfiles](https://github.com/4513ECHO/dotfiles) - ⚙ My configuration files and personal preferences|[ddu-source-source](https://github.com/4513ECHO/ddu-source-source) - ddu source source for ddu.vim|
+|[vim-jq_indent](https://github.com/4513ECHO/vim-jq_indent) - 🟰 Better indentation of jq for vim|[ddu-source-emoji](https://github.com/4513ECHO/ddu-source-emoji) - 😀 Emoji source for ddu.vim|
+|[ddu-source-ghq](https://github.com/4513ECHO/ddu-source-ghq) - ghq(1) source for ddu.vim||
+
+## Socials
 
 - [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/GitHub/icon" /> GitHub Gist](https://gist.github.com/4513ECHO)
 - [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons/qiita/icon" /> Qiita](https://qiita.com/4513echo)
 - [<img height="16" width="16" src="https://scrapbox.io/api/pages/icons2/zenn/icon" /> Zenn](https://zenn.dev/4513echo)
 - [<img height="16" width="16" src="https://nota.github.io/press-kit/S-icon.svg" /> Scrapbox](https://scrapbox.io/4513echo)
-
-- - - 
-
-icons from https://simpleicons.org/
-
-[
- ![Alpine Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=Alpine+Linux&logoColor=FFFFFF&label=)
- ![Deno](https://img.shields.io/static/v1?style=for-the-badge&message=Deno&color=000000&logo=Deno&logoColor=FFFFFF&label=)
- ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
- ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
- ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
- ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
- ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
- ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
- ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
- ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
- ![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
- ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
- ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
- ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
- ![niconico](https://img.shields.io/static/v1?style=for-the-badge&message=niconico&color=231815&logo=niconico&logoColor=FFFFFF&label=)
- ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
- ![Qiita](https://img.shields.io/static/v1?style=for-the-badge&message=Qiita&color=222222&logo=Qiita&logoColor=55C500&label=)
- ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
- ![tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
- ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
- ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
- ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
- ![Zenn](https://img.shields.io/static/v1?style=for-the-badge&message=Zenn&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=)
-](https://github.com/progfay/shields-with-icon/)
 
 <!--
 **4513ECHO/4513ECHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
