@@ -39,7 +39,7 @@
 |[longpython](https://github.com/4513ECHO/longpython) - 🐍 CLI tool to print long python|[zsh-sticky-shift](https://github.com/4513ECHO/zsh-sticky-shift) - 🐚 Sticky shift for Zsh|
 |[dotfiles](https://github.com/4513ECHO/dotfiles) - ⚙ My configuration files and personal preferences|[ddu-source-source](https://github.com/4513ECHO/ddu-source-source) - ddu source source for ddu.vim|
 |[vim-jq_indent](https://github.com/4513ECHO/vim-jq_indent) - 🟰 Better indentation of jq for vim|[ddu-source-emoji](https://github.com/4513ECHO/ddu-source-emoji) - 😀 Emoji source for ddu.vim|
-|[ddu-source-ghq](https://github.com/4513ECHO/ddu-source-ghq) - ghq(1) source for ddu.vim||
+|[ddu-source-ghq](https://github.com/4513ECHO/ddu-source-ghq) - ghq(1) source for ddu.vim|[aqua-picker](https://github.com/4513ECHO/aqua-picker) - 💧 Search aquaproj/aqua-registry interactively from web, built with deno fresh 🍋|
 
 ## Socials
 
